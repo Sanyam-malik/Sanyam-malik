@@ -1,3 +1,4 @@
+<img src="https://github.com/Sanyam-malik/Sanyam-malik/blob/main/banner.gif"/>
 <h1 align="center">Hi 👋, I'm Sanyam Malik</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
 
